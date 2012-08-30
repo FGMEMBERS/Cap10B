@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ cap10b-set.xml  - Cap10B by PAF team  - http://equipe-flightgear.forumactif.com
+
+ Written by Flavien BLANC
+ Modified by PAF team  - April 2012
+
+ Copyright (C) 2011-2012  Flavien BLANC  - http://equipe-flightgear.forumactif.com/u56
+ Copyright (C) 2012  Clément DE L'HAMAIDE  - http://equipe-flightgear.forumactif.com/u115
+
+
+ This program is free software; you can redistribute it and/or
+ modify it under the terms of the GNU General Public License as
+ published by the Free Software Foundation; either version 2 of the
+ License, or (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful, but
+ WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with this program; if not see <http://www.gnu.org/licenses/>.
+-->
+
+<PropertyList>
+  <title>Cap10B</title>
+      <key>
+        <name>S</name>
+        <desc>Start/stop smoke</desc>
+      </key>
+  <line/>
+  <line>_________Preaffichage_________</line>
+  <line>rotation: 100km/h </line>
+  <line>Vent arriere: 1800 RPM, 1 cran volets</line>
+  <line>Finale: 1500 RPM, descente a 500ft/min</line>
+  <line>_________Vitesses_________</line>
+  <line>Vs lisse    = 40kt </line>
+  <line>Vs volet 10 = 38kt </line>
+  <line>Vs volet 40 = 34kt </line>
+  <line>_________Carburant_________</line>
+  <line>En voltige, sélectionnez le réservoir avant</line>
+</PropertyList>
