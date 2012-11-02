@@ -8,7 +8,7 @@
 
  Copyright (C) 2011-2012  Flavien BLANC  - http://equipe-flightgear.forumactif.com/u56
  Copyright (C) 2012  Clément DE L'HAMAIDE  - http://equipe-flightgear.forumactif.com/u115
- Copyright (C) 2011-2012 Christian THIRIOT (PATTEN) - http://equipe-flightgear.forumactif.com/
+ Copyright (C) 2011-2012 Christian THIRIOT (PATTEN) - http://equipe-flightgear.forumactif.com/u114
 
  This program is free software; you can redistribute it and/or
  modify it under the terms of the GNU General Public License as
@@ -283,6 +283,22 @@
       </volume>
     </click>
 
+ <!-- Pompe fuel -->
+     <pump>
+      <name>Pompe fuel</name>
+      <mode>looped</mode>
+      <path>Aircraft/Cap10B/Sounds/Cap10B_pompe_fuel.wav</path>
+       <condition>
+          <property>systems/electrical/outputs/fuel-pump</property>
+          <value>24</value> 
+    </condition>    
+      <volume>
+           <factor>2.0</factor>
+      </volume>
+       <reference-dist>100</reference-dist>
+    <max-dist>1000</max-dist>      
+    </pump>
+
     <alarme>
       <name>alarme</name>
       <mode>looped</mode>
@@ -290,10 +306,10 @@
       <condition>
         <and>
           <property>controls/electric/battery-switch</property>
-          <less-than>
-            <property>velocities/airspeed-kt</property>
-            <value>49</value>
-          </less-than>
+        <greater-than>
+          <property>fdm/jsbsim/aero/alpha-wing-rad</property>
+          <value>0.279</value>
+        </greater-than>
           <not>
             <property>gear/gear[0]/wow</property>
             <property>gear/gear[1]/wow</property>

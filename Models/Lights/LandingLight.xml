@@ -9,13 +9,42 @@
 ##########################################-->
 
 <PropertyList>
+  <path>Lights.ac</path>
+  <nopreview/>
 
-  <path>light-cone.ac</path>
-  <nopreview>1</nopreview>
+  <animation>
+    <type>select</type>
+    <object-name>light-volume</object-name>
+    <object-name>red-light-plate</object-name>
+    <object-name>green-light-plate</object-name>
+    <object-name>white-light-plate</object-name>
+    <object-name>blue-light-plate</object-name>
+    <!--<object-name>lnd-light-plate</object-name>-->
+  </animation>
 
-  <effect>
-    <inherits-from>Effects/light-cone</inherits-from>
-    <object-name>Cone</object-name>
-  </effect>
-  
- </PropertyList>
+  <animation>
+    <type>select</type>
+    <object-name>lnd-light-plate</object-name>
+    <condition>
+      <and>
+        <property>sim/multiplay/generic/int[11]</property>
+        <greater-than>
+          <property>sim/multiplay/generic/float[8]</property>
+          <value>8</value>
+        </greater-than>
+      </and>
+    </condition>
+  </animation>
+
+  <animation>
+    <type>material</type>
+    <object-name>lnd-light-plate</object-name>
+    <emission>
+      <red>   0.027 </red>
+      <green> 0.027 </green>
+      <blue>  0.027 </blue>
+      <factor-prop>sim/multiplay/generic/float[5]</factor-prop>
+    </emission>
+  </animation>
+
+</PropertyList>

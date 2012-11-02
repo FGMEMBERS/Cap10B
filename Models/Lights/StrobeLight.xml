@@ -9,11 +9,25 @@
 ##########################################-->
 
 <PropertyList>
-  <path>WhiteLight.ac</path>
+  <path>Lights.ac</path>
+  <nopreview/>
+
+  <animation>
+    <type>select</type>
+    <object-name>light-volume</object-name>
+    <object-name>red-light-plate</object-name>
+    <object-name>green-light-plate</object-name>
+    <!--<object-name>white-light-plate</object-name>-->
+    <object-name>blue-light-plate</object-name>
+    <object-name>lnd-light-plate</object-name>
+  </animation>
 
   <animation>
     <type>noshadow</type>
-    <object-name>Light</object-name>
+    <object-name>red-light-plate</object-name>
+    <object-name>green-light-plate</object-name>
+    <object-name>white-light-plate</object-name>
+    <object-name>blue-light-plate</object-name>
   </animation>
 
   <animation>
@@ -23,13 +37,19 @@
 
   <animation>
     <type>billboard</type>
-    <object-name>Light</object-name>
+    <object-name>red-light-plate</object-name>
+    <object-name>green-light-plate</object-name>
+    <object-name>white-light-plate</object-name>
+    <object-name>blue-light-plate</object-name>
     <spherical type="bool">true</spherical>
   </animation>
 
   <animation>
     <type>select</type>
-    <object-name>Light</object-name>
+    <object-name>red-light-plate</object-name>
+    <object-name>green-light-plate</object-name>
+    <object-name>white-light-plate</object-name>
+    <object-name>blue-light-plate</object-name>
     <condition>
       <and>
         <property>sim/multiplay/generic/int[13]</property>
@@ -43,7 +63,10 @@
 
   <animation>
     <type>material</type>
-    <object-name>Light</object-name>
+    <object-name>red-light-plate</object-name>
+    <object-name>green-light-plate</object-name>
+    <object-name>white-light-plate</object-name>
+    <object-name>blue-light-plate</object-name>
     <emission>
       <red>   0.027 </red>
       <green> 0.027 </green>
@@ -54,7 +77,10 @@
 
   <animation>
     <type>dist-scale</type>
-    <object-name>Light</object-name>
+    <object-name>red-light-plate</object-name>
+    <object-name>green-light-plate</object-name>
+    <object-name>white-light-plate</object-name>
+    <object-name>blue-light-plate</object-name>
     <interpolation>
       <entry><ind>    0 </ind><dep> 0.25 </dep></entry>
       <entry><ind>   20 </ind><dep> 0.50 </dep></entry>

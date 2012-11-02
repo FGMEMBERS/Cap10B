@@ -444,9 +444,9 @@
   </model>
 
 
-  <!-- Interieur -->
+  <!-- Interior -->
   <model>
-    <path>Aircraft/Cap10B/Models/Interieur/interieur.xml</path>
+    <path>Aircraft/Cap10B/Models/Interior/interior.xml</path>
     <offsets>
       <x-m>  0.000 </x-m>
       <y-m>  0.000 </y-m>
@@ -892,7 +892,7 @@
   </model>
 
   <model>
-    <path>Aircraft/Cap10B/Models/Lights/LandingLightPlate.xml</path>
+    <path>Aircraft/Cap10B/Models/Lights/LandingLight.xml</path>
     <condition>
       <not><property>sim/rendering/rembrandt/enabled</property></not>
     </condition>
@@ -901,13 +901,13 @@
       <y-m>  0.000 </y-m>
       <z-m> -0.305 </z-m>
       <roll-deg>    0 </roll-deg>
-      <pitch-deg>   0 </pitch-deg>
+      <pitch-deg> -15 </pitch-deg>
       <heading-deg> 0 </heading-deg>
     </offsets>
   </model>
 
   <model>
-    <path>Aircraft/Cap10B/Models/Lights/LandingLightPlate-rembrandt.xml</path>
+    <path>Aircraft/Cap10B/Models/Lights/LandingLight-rembrandt.xml</path>
     <condition>
       <property>sim/rendering/rembrandt/enabled</property>
     </condition>
@@ -916,7 +916,7 @@
       <y-m>  0.000 </y-m>
       <z-m> -0.305 </z-m>
       <roll-deg>    0 </roll-deg>
-      <pitch-deg>   0 </pitch-deg>
+      <pitch-deg> -15 </pitch-deg>
       <heading-deg> 0 </heading-deg>
     </offsets>
   </model>
