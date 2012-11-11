@@ -238,9 +238,9 @@
       <file>Aircraft/Cap10B/Nasal/interpolate.nas</file>
     </cap10bCommon>
 
-   <!--<garmin196>
+    <garmin196>
       <file>Aircraft/Instruments-3d/garmin196/garmin196.nas</file>
-    </garmin196>-->
+    </garmin196>
 
   </nasal>
 

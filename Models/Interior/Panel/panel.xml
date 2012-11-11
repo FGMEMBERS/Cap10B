@@ -221,14 +221,14 @@
   </model>
 
 <!-- Garmin196 -->
-  <!--<model>
+  <model>
     <path>Aircraft/Instruments-3d/garmin196/garmin196_support1.xml</path>
     <offsets>
       <x-m>  -0.253 </x-m>
       <y-m>  0.341 </y-m>
       <z-m>  0.304 </z-m>
     </offsets>
-  </model>-->
+  </model>
 
   <!-- battery-switch -->
   <model>

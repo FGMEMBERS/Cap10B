@@ -257,9 +257,6 @@ upsideDown_system = func{
   }else{
     timeOfNegatifG = 0;
   }
-
-  setprop ("time-of-negatif-g", timeOfNegatifG);
-
   settimer(upsideDown_system, 1);
 }
 
