@@ -85,7 +85,10 @@
       <line>Vs flaps 40 = 86km/h (46kt)</line>
       <line/>
       <line>_________Fuel_________</line>
-      <line>For aerobatics, front tank only </line>
+      <line>For aerobatics, use front tank only and rear tank must be empty</line>
+      <line/>
+      <line>Rear tank is empty at startup</line>
+      <line>feel you free to fill it with the menu "Equipement > Fuel and Payload"</line>
     </help>
 
     <systems>
@@ -130,6 +133,11 @@
       <aileron-trim>0.023</aileron-trim>
       <rudder-trim>0.012</rudder-trim>
     </flight>
+    <switches>
+      <ai-switch type="bool">0</ai-switch>
+      <hi-switch type="bool">0</hi-switch>
+      <smoke type="bool">0</smoke>
+    </switches>
   </controls>
 
   <engines>
@@ -197,6 +205,17 @@
           <priority type="int">0</priority>
         </tank>
       </propulsion>
+      <gear>
+        <unit n="0">
+          <broken type="bool">0</broken>
+        </unit>
+        <unit n="1">
+          <broken type="bool">0</broken>
+        </unit>
+        <unit n="2">
+          <broken type="bool">0</broken>
+        </unit>
+      </gear>
     </jsbsim>
   </fdm>
 

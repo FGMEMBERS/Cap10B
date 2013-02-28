@@ -33,11 +33,11 @@
     <flight-model archive="y">jsb</flight-model>
     <aero archive="y">cap10-jsbsim</aero>
 
-    <status>early production</status>
+    <status>production</status>
     <rating>
-      <FDM type="int">3</FDM>
-      <systems type="int">4</systems>
-      <cockpit type="int">4</cockpit>
+      <FDM type="int">4</FDM>
+      <systems type="int">5</systems>
+      <cockpit type="int">5</cockpit>
       <model type="int">4</model>
     </rating>
 
@@ -57,7 +57,10 @@
         <int n="10" alias="/sim/model/lights/nav-lights/state"/>
         <int n="11" alias="/sim/model/lights/landing-lights/state"/>
         <int n="12" alias="/sim/model/lights/taxi-lights/state"/>
-        <int n="13" alias="/sim/model/lights/strobe-lights/state"/>   
+        <int n="13" alias="/sim/model/lights/strobe-lights/state"/>
+        <int n="14" alias="/fdm/jsbsim/gear/unit[0]/broken"/>
+        <int n="15" alias="/fdm/jsbsim/gear/unit[1]/broken"/>
+        <int n="16" alias="/fdm/jsbsim/gear/unit[2]/broken"/>
 
         <float n="0" alias="/instrumentation/doors/crew/position-norm"/>
 
@@ -80,6 +83,8 @@
     </multiplay>
 
     <menubar include="Dialogs/cap10b-menu.xml"/>
+
+    <checklists include="cap10-checklists.xml"/>
 
     <view n="100">
       <name>Tail Camera View</name>

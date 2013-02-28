@@ -38,6 +38,7 @@
     <object-name>support_throttle</object-name>
     <object-name>throttle</object-name>
     <object-name>bielle_throttle</object-name>
+    <object-name>trim-wheel</object-name>
   </animation>
 
   <!-- Disable glass -->
@@ -62,6 +63,24 @@
     <type>noshadow</type>
     <object-name>VitreInt</object-name>
     <object-name>VerriereInt</object-name>
+  </animation>
+
+  <!-- Trim wheel -->
+  <animation>
+    <type>rotate</type>
+    <object-name>trim-wheel</object-name>
+    <property>controls/flight/elevator-trim</property>
+    <factor>90</factor>
+    <center>
+      <x-m> -0.04307 </x-m>
+      <y-m>  0.00000 </y-m>
+      <z-m> -0.18200 </z-m>
+    </center>
+    <axis>
+      <x>  0 </x>
+      <y>  1 </y>
+      <z>  0 </z>
+    </axis>
   </animation>
 
   <!-- Throttle pilot -->
@@ -120,6 +139,15 @@
     </action>
   </animation>
 
+  <!-- Pilote -->
+  <model>
+    <path>Aircraft/Cap10B/Models/Pilot/pilot.xml</path>
+    <offsets>
+      <x-m> -0.01 </x-m>
+      <y-m> -0.28 </y-m>
+      <z-m> -0.14 </z-m>
+    </offsets>
+  </model>
 
   <!-- Planche de bord -->
   <model>

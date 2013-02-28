@@ -730,6 +730,29 @@
   </text>
 
   <text>
+    <name>helpText</name>
+    <type type="string">literal</type>
+    <text type="string">Parking brake</text>
+    <draw-text type="bool">true</draw-text>
+    <font>Helvetica.txf</font>
+    <character-size type="double">0.014</character-size>
+    <character-aspect-ratio type="double">1</character-aspect-ratio>
+    <axis-alignment>yz-plane</axis-alignment>
+    <max-height>0.06</max-height>
+    <max-width>0.06</max-width>
+    <font-resolution>
+      <width type="int">64</width>
+      <height type="int">64</height>
+    </font-resolution>
+    <alignment>center-center</alignment>
+    <offsets>
+      <x-m> -0.2809 </x-m>
+      <y-m> -0.3740 </y-m>
+      <z-m>  0.0520 </z-m>
+    </offsets>
+  </text>
+
+  <text>
     <name>panelText</name>
     <type type="string">literal</type>
     <text type="string">Position lights</text>
@@ -841,6 +864,75 @@
       <x-m> -0.2909 </x-m>
       <y-m> -0.08469 </y-m>
       <z-m>  0.01038 </z-m>
+    </offsets>
+  </text>
+
+  <text>
+    <name>helpText</name>
+    <type type="string">literal</type>
+    <text type="string">Magnetos</text>
+    <draw-text type="bool">true</draw-text>
+    <font>Helvetica.txf</font>
+    <character-size type="double">0.014</character-size>
+    <character-aspect-ratio type="double">1</character-aspect-ratio>
+    <axis-alignment>yz-plane</axis-alignment>
+    <max-height>0.06</max-height>
+    <max-width>0.06</max-width>
+    <font-resolution>
+      <width type="int">64</width>
+      <height type="int">64</height>
+    </font-resolution>
+    <alignment>center-center</alignment>
+    <offsets>
+      <x-m> -0.2909 </x-m>
+      <y-m> -0.0470 </y-m>
+      <z-m> -0.0220 </z-m>
+    </offsets>
+  </text>
+
+  <text>
+    <name>helpText</name>
+    <type type="string">literal</type>
+    <text type="string">Starter</text>
+    <draw-text type="bool">true</draw-text>
+    <font>Helvetica.txf</font>
+    <character-size type="double">0.014</character-size>
+    <character-aspect-ratio type="double">1</character-aspect-ratio>
+    <axis-alignment>yz-plane</axis-alignment>
+    <max-height>0.06</max-height>
+    <max-width>0.06</max-width>
+    <font-resolution>
+      <width type="int">64</width>
+      <height type="int">64</height>
+    </font-resolution>
+    <alignment>center-center</alignment>
+    <offsets>
+      <x-m> -0.2909 </x-m>
+      <y-m> -0.04469 </y-m>
+      <z-m> -0.06500 </z-m>
+    </offsets>
+  </text>
+
+  <text>
+    <name>helpText</name>
+    <type type="string">literal</type>
+    <text type="string">Fuel valve</text>
+    <draw-text type="bool">true</draw-text>
+    <font>Helvetica.txf</font>
+    <character-size type="double">0.014</character-size>
+    <character-aspect-ratio type="double">1</character-aspect-ratio>
+    <axis-alignment>yz-plane</axis-alignment>
+    <max-height>0.06</max-height>
+    <max-width>0.06</max-width>
+    <font-resolution>
+      <width type="int">64</width>
+      <height type="int">64</height>
+    </font-resolution>
+    <alignment>center-center</alignment>
+    <offsets>
+      <x-m> -0.2909 </x-m>
+      <y-m> -0.04469 </y-m>
+      <z-m> -0.10538 </z-m>
     </offsets>
   </text>
 
@@ -1098,6 +1190,39 @@
       <green> 0.0 </green>
       <blue>  0.0 </blue>
     </specular>
+  </animation>
+
+  <animation>
+    <type>material</type>
+    <object-name>helpText</object-name>
+    <emission>
+      <red>   1.0 </red>
+      <green> 1.0 </green>
+      <blue>  0.0 </blue>
+    </emission>
+    <ambient>
+      <red>   1.0 </red>
+      <green> 1.0 </green>
+      <blue>  0.0 </blue>
+    </ambient>
+    <diffuse>
+      <red>   1.0 </red>
+      <green> 1.0 </green>
+      <blue>  0.0 </blue>
+    </diffuse>
+    <specular>
+      <red>   1.0 </red>
+      <green> 1.0 </green>
+      <blue>  0.0 </blue>
+    </specular>
+  </animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>helpText</object-name>
+    <condition>
+      <property>sim/panel-hotspots</property>
+    </condition>
   </animation>
   
 </PropertyList>

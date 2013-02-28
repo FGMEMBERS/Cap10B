@@ -64,7 +64,7 @@
     <object-name>helice</object-name>
     <object-name>directiontrim</object-name>
     <object-name>trimprof</object-name>
-    <object-name>join</object-name>
+    <object-name>support-canopy</object-name>
     <object-name>RessortRoulette</object-name>
     <object-name>SupportRoulette</object-name>
     <object-name>FourcheRoulette</object-name>
@@ -96,7 +96,7 @@
     <object-name>pitot</object-name>
     <object-name>directiontrim</object-name>
     <object-name>trimprof</object-name>
-    <object-name>join</object-name>
+    <object-name>support-canopy</object-name>
     <object-name>derive</object-name>
     <object-name>direction</object-name>
     <object-name>carenaged</object-name>
@@ -161,7 +161,7 @@
     <object-name>helice</object-name>
     <object-name>directiontrim</object-name>
     <object-name>trimprof</object-name>
-    <object-name>join</object-name>
+    <object-name>support-canopy</object-name>
     <object-name>derive</object-name>
     <object-name>direction</object-name>
     <object-name>carenaged</object-name>
@@ -603,6 +603,39 @@
     <y>0.315068</y>
     <z>0.021467</z>
    </axis>
+  </animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>amortisseurg</object-name>
+    <object-name>roueg</object-name>
+    <object-name>jambeg</object-name>
+    <object-name>carenageg</object-name>
+    <condition>
+      <not><property>sim/multiplay/generic/int[14]</property></not>
+    </condition>
+  </animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>amortisseurd</object-name>
+    <object-name>roued</object-name>
+    <object-name>jambed</object-name>
+    <object-name>carenaged</object-name>
+    <condition>
+      <not><property>sim/multiplay/generic/int[15]</property></not>
+    </condition>
+  </animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>roueA</object-name>
+    <object-name>RessortRoulette</object-name>
+    <object-name>SupportRoulette</object-name>
+    <object-name>FourcheRoulette</object-name>
+    <condition>
+      <not><property>sim/multiplay/generic/int[16]</property></not>
+    </condition>
   </animation>
 
 	<!--Armature.010-->

@@ -87,7 +87,7 @@
       <y> -0.984 </y>
       <z> -1.195 </z>
     </location>
-    <static_friction>  0.80 </static_friction>
+    <static_friction>  0.50 </static_friction>
     <dynamic_friction> 0.50 </dynamic_friction>
     <rolling_friction> 0.02 </rolling_friction>
     <spring_coeff unit="N/M">      28000.00 </spring_coeff>
@@ -103,7 +103,7 @@
       <y>  0.984 </y>
       <z> -1.195 </z>
     </location>
-    <static_friction>  0.80 </static_friction>
+    <static_friction>  0.50 </static_friction>
     <dynamic_friction> 0.50 </dynamic_friction>
     <rolling_friction> 0.02 </rolling_friction>
     <spring_coeff unit="N/M">      28000.00 </spring_coeff>
