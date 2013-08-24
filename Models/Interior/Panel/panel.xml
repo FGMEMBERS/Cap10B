@@ -42,7 +42,7 @@
 
   <!-- KX165-->
   <model>
-    <path>Aircraft/Cap10B/Models/Interior/Panel/Instruments/kx165/kx165-1.xml</path>
+    <path>Aircraft/Instruments-3d/kx165/kx165-1.xml</path>
     <offsets>
       <x-m> -0.214 </x-m>
       <y-m>  0.392 </y-m>
@@ -52,7 +52,7 @@
 
   <!-- KT76A-->
   <model>
-    <path>Aircraft/Cap10B/Models/Interior/Panel/Instruments/KT76A/KT76A.xml</path>
+    <path>Aircraft/Instruments-3d/kt76a/kt76a.xml</path>
     <offsets>
       <x-m> -0.214 </x-m>
       <y-m>  0.392 </y-m>
