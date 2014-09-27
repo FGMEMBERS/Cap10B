@@ -450,11 +450,7 @@
   <!-- Interior -->
   <model>
     <path>Aircraft/Cap10B/Models/Interior/interior.xml</path>
-    <offsets>
-      <x-m>  0.000 </x-m>
-      <y-m>  0.000 </y-m>
-      <z-m>  0.000 </z-m>
-    </offsets>
+    <usage>interior</usage>
   </model>
   
    <animation>
