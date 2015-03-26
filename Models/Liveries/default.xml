@@ -29,7 +29,7 @@
     <model>
       <livery>
         <name type="string">Default</name>
-        <texture>texture.dds</texture>
+        <texture>texture.png</texture>
 
         <!--<diffuse>
           <red>   0.0 </red>

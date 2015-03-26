@@ -47,7 +47,7 @@
         <file type="string">default</file>
         <name type="string">Default</name>
         <shininess type="double">96</shininess>
-        <texture type="string">texture.dds</texture>
+        <texture type="string">texture.png</texture>
         <reflection-correction type="double">-0.55</reflection-correction>
       </livery>
       <config>

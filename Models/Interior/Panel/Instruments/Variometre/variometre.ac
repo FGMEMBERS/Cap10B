@@ -8,7 +8,7 @@ name "aiguille"
 loc 0 0 -0
 data 8
 aiguille
-texture "variometre.dds"
+texture "variometre.png"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 60
@@ -385,7 +385,7 @@ name "variometre"
 loc 0 0 -0
 data 10
 variometre
-texture "variometre.dds"
+texture "variometre.png"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 129

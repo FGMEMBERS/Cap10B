@@ -9,7 +9,7 @@ OBJECT poly
 name "face"
 data 4
 face
-texture "horameter.dds"
+texture "horameter.png"
 texrep 1 1
 crease 30.000000
 numvert 264
@@ -1910,7 +1910,7 @@ OBJECT poly
 name "hours01"
 data 7
 hours01
-texture "horameter.dds"
+texture "horameter.png"
 texrep 1 1
 crease 30.000000
 numvert 20
@@ -2106,7 +2106,7 @@ OBJECT poly
 name "hours1"
 data 6
 hours1
-texture "horameter.dds"
+texture "horameter.png"
 texrep 1 1
 crease 30.000000
 numvert 20
@@ -2302,7 +2302,7 @@ OBJECT poly
 name "hours10"
 data 7
 hours10
-texture "horameter.dds"
+texture "horameter.png"
 texrep 1 1
 crease 30.000000
 numvert 20
@@ -2498,7 +2498,7 @@ OBJECT poly
 name "hours100"
 data 8
 hours100
-texture "horameter.dds"
+texture "horameter.png"
 texrep 1 1
 crease 30.000000
 numvert 20
@@ -2694,7 +2694,7 @@ OBJECT poly
 name "hours1000"
 data 9
 hours1000
-texture "horameter.dds"
+texture "horameter.png"
 texrep 1 1
 crease 30.000000
 numvert 20
@@ -2890,7 +2890,7 @@ OBJECT poly
 name "hours10000"
 data 10
 hours10000
-texture "horameter.dds"
+texture "horameter.png"
 texrep 1 1
 crease 30.000000
 numvert 20
@@ -3086,7 +3086,7 @@ OBJECT poly
 name "vis"
 data 10
 Circle.001
-texture "horameter.dds"
+texture "horameter.png"
 texrep 1 1
 crease 30.000000
 numvert 260

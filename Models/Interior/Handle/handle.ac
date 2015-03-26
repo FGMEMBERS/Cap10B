@@ -7,7 +7,7 @@ OBJECT poly
 name "manched"
 data 8
 Mesh.008
-texture "handle.dds"
+texture "handle.png"
 texrep 1 1
 crease 30.000000
 numvert 1653
@@ -14844,7 +14844,7 @@ OBJECT poly
 name "mancheg"
 data 8
 Mesh.001
-texture "handle.dds"
+texture "handle.png"
 texrep 1 1
 crease 30.000000
 numvert 1528
@@ -28747,7 +28747,7 @@ OBJECT poly
 name "support1d"
 data 8
 Mesh.002
-texture "handle.dds"
+texture "handle.png"
 texrep 1 1
 crease 30.000000
 numvert 65
@@ -29238,7 +29238,7 @@ OBJECT poly
 name "support1g"
 data 8
 Mesh.003
-texture "handle.dds"
+texture "handle.png"
 texrep 1 1
 crease 30.000000
 numvert 65
@@ -29729,7 +29729,7 @@ OBJECT poly
 name "support2d"
 data 8
 Mesh.004
-texture "handle.dds"
+texture "handle.png"
 texrep 1 1
 crease 30.000000
 numvert 65
@@ -30220,7 +30220,7 @@ OBJECT poly
 name "support2g"
 data 8
 Mesh.005
-texture "handle.dds"
+texture "handle.png"
 texrep 1 1
 crease 30.000000
 numvert 65
@@ -30711,7 +30711,7 @@ OBJECT poly
 name "support3d"
 data 8
 Mesh.006
-texture "handle.dds"
+texture "handle.png"
 texrep 1 1
 crease 30.000000
 numvert 65
@@ -31202,7 +31202,7 @@ OBJECT poly
 name "support3g"
 data 8
 Mesh.007
-texture "handle.dds"
+texture "handle.png"
 texrep 1 1
 crease 30.000000
 numvert 65

@@ -7,7 +7,7 @@ name "Circle"
 loc 0 0 -0
 data 6
 Circle
-texture "color_prise_casque.dds"
+texture "color_prise_casque.png"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 66
@@ -468,7 +468,7 @@ name "Plane"
 loc 0 0 -0
 data 5
 Plane
-texture "color_prise_casque.dds"
+texture "color_prise_casque.png"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 4
@@ -490,7 +490,7 @@ name "sphere001"
 loc 0 0 -0
 data 9
 sphere001
-texture "color_prise_casque.dds"
+texture "color_prise_casque.png"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 352
@@ -3093,7 +3093,7 @@ name "sphere002"
 loc 0 0 -0
 data 9
 sphere002
-texture "color_prise_casque.dds"
+texture "color_prise_casque.png"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 352

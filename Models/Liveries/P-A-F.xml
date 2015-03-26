@@ -29,7 +29,7 @@
     <model>
       <livery>
         <name type="string">P-A-F</name>
-        <texture>Liveries/P-A-F.dds</texture>
+        <texture>Liveries/P-A-F.png</texture>
 
         <!--<diffuse>
           <red>   0.0 </red>

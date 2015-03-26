@@ -29,7 +29,7 @@
     <model>
       <livery>
         <name type="string">Red</name>
-        <texture>Liveries/red.dds</texture>
+        <texture>Liveries/red.png</texture>
 
         <!--<diffuse>
           <red>   0.0 </red>

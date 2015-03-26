@@ -160,7 +160,7 @@ OBJECT poly
 name "Cube"
 data 4
 Cube
-texture "KT76A.dds"
+texture "KT76A.png"
 texrep 1 1
 crease 30.000000
 numvert 20
@@ -274,7 +274,7 @@ OBJECT poly
 name "Cube.005"
 data 8
 Cube.001
-texture "KT76A.dds"
+texture "KT76A.png"
 texrep 1 1
 crease 30.000000
 numvert 8
@@ -334,7 +334,7 @@ OBJECT poly
 name "Cube.006"
 data 8
 Cube.006
-texture "KT76A.dds"
+texture "KT76A.png"
 texrep 1 1
 crease 30.000000
 numvert 20
@@ -399,7 +399,7 @@ OBJECT poly
 name "Dial1"
 data 8
 Cube.004
-texture "KT76A.dds"
+texture "KT76A.png"
 texrep 1 1
 crease 30.000000
 numvert 24
@@ -537,7 +537,7 @@ OBJECT poly
 name "Dial10"
 data 8
 Cube.003
-texture "KT76A.dds"
+texture "KT76A.png"
 texrep 1 1
 crease 30.000000
 numvert 24
@@ -675,7 +675,7 @@ OBJECT poly
 name "Dial100"
 data 8
 Cube.002
-texture "KT76A.dds"
+texture "KT76A.png"
 texrep 1 1
 crease 30.000000
 numvert 24
@@ -813,7 +813,7 @@ OBJECT poly
 name "Dial1000"
 data 8
 Cube.005
-texture "KT76A.dds"
+texture "KT76A.png"
 texrep 1 1
 crease 30.000000
 numvert 24
@@ -951,7 +951,7 @@ OBJECT poly
 name "Ident"
 data 10
 Circle.005
-texture "KT76A.dds"
+texture "KT76A.png"
 texrep 1 1
 crease 30.000000
 numvert 33
@@ -1202,7 +1202,7 @@ OBJECT poly
 name "Knob1"
 data 10
 Circle.004
-texture "KT76A.dds"
+texture "KT76A.png"
 texrep 1 1
 crease 30.000000
 numvert 129
@@ -2173,7 +2173,7 @@ OBJECT poly
 name "Knob10"
 data 10
 Circle.001
-texture "KT76A.dds"
+texture "KT76A.png"
 texrep 1 1
 crease 30.000000
 numvert 129
@@ -3144,7 +3144,7 @@ OBJECT poly
 name "Knob100"
 data 6
 Circle
-texture "KT76A.dds"
+texture "KT76A.png"
 texrep 1 1
 crease 30.000000
 numvert 129
@@ -4115,7 +4115,7 @@ OBJECT poly
 name "Knob1000"
 data 10
 Circle.006
-texture "KT76A.dds"
+texture "KT76A.png"
 texrep 1 1
 crease 30.000000
 numvert 129
@@ -5086,7 +5086,7 @@ OBJECT poly
 name "Knob100s"
 data 10
 Circle.003
-texture "KT76A.dds"
+texture "KT76A.png"
 texrep 1 1
 crease 30.000000
 numvert 80
@@ -5596,7 +5596,7 @@ OBJECT poly
 name "KnobMode"
 data 10
 Circle.010
-texture "KT76A.dds"
+texture "KT76A.png"
 texrep 1 1
 crease 30.000000
 numvert 129

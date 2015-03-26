@@ -8,7 +8,7 @@ OBJECT poly
 name "Fond"
 data 8
 Mesh.005
-texture "oil-temp.dds"
+texture "oil-temp.png"
 texrep 1 1
 crease 30.000000
 numvert 45
@@ -229,7 +229,7 @@ OBJECT poly
 name "aiguille"
 data 8
 Mesh.003
-texture "oil-temp.dds"
+texture "oil-temp.png"
 texrep 1 1
 crease 30.000000
 numvert 5
@@ -257,7 +257,7 @@ OBJECT poly
 name "contour"
 data 8
 Mesh.004
-texture "oil-temp.dds"
+texture "oil-temp.png"
 texrep 1 1
 crease 30.000000
 numvert 256

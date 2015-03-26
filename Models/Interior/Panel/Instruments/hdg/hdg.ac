@@ -9,7 +9,7 @@ OBJECT poly
 name "HDG.knob"
 data 8
 HDG.knob
-texture "hdg.dds"
+texture "hdg.png"
 texrep 1 1
 crease 30.000000
 numvert 25
@@ -200,7 +200,7 @@ OBJECT poly
 name "HDGgauge"
 data 8
 HDGgauge
-texture "hdg.dds"
+texture "hdg.png"
 texrep 1 1
 crease 30.000000
 numvert 96
@@ -810,7 +810,7 @@ OBJECT poly
 name "HDGneedle"
 data 9
 HDGneedle
-texture "hdg.dds"
+texture "hdg.png"
 texrep 1 1
 crease 30.000000
 numvert 16
@@ -885,7 +885,7 @@ OBJECT poly
 name "HDGpointer"
 data 10
 HDGpointer
-texture "hdg.dds"
+texture "hdg.png"
 texrep 1 1
 crease 30.000000
 numvert 30

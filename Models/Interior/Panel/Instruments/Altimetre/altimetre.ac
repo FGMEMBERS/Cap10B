@@ -10,7 +10,7 @@ OBJECT poly
 name "ALTbezel"
 data 4
 Mesh
-texture "alt.dds"
+texture "alt.png"
 texrep 1 1
 crease 30.000000
 numvert 110
@@ -740,7 +740,7 @@ OBJECT poly
 name "ALTface"
 data 6
 Circle
-texture "alt.dds"
+texture "alt.png"
 texrep 1 1
 crease 30.000000
 numvert 67
@@ -1243,7 +1243,7 @@ OBJECT poly
 name "InhgKnob"
 data 8
 Mesh.003
-texture "alt.dds"
+texture "alt.png"
 texrep 1 1
 crease 50.000000
 numvert 25
@@ -1434,7 +1434,7 @@ OBJECT poly
 name "inhg"
 data 10
 Circle.005
-texture "alt.dds"
+texture "alt.png"
 texrep 1 1
 crease 30.000000
 numvert 40
@@ -1624,7 +1624,7 @@ OBJECT poly
 name "needle100"
 data 8
 Mesh.006
-texture "alt.dds"
+texture "alt.png"
 texrep 1 1
 crease 30.000000
 numvert 20
@@ -1746,7 +1746,7 @@ OBJECT poly
 name "needle1000"
 data 8
 Mesh.007
-texture "alt.dds"
+texture "alt.png"
 texrep 1 1
 crease 30.000000
 numvert 22
@@ -1884,7 +1884,7 @@ OBJECT poly
 name "needle10000"
 data 8
 Mesh.001
-texture "alt.dds"
+texture "alt.png"
 texrep 1 1
 crease 30.000000
 numvert 23

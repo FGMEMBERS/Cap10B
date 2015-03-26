@@ -9,7 +9,7 @@ OBJECT poly
 name "Fond"
 data 8
 Mesh.002
-texture "forceG.dds"
+texture "forceG.png"
 texrep 1 1
 crease 30.000000
 numvert 32
@@ -171,7 +171,7 @@ OBJECT poly
 name "aiguille"
 data 8
 Mesh.001
-texture "forceG.dds"
+texture "forceG.png"
 texrep 1 1
 crease 30.000000
 numvert 12
@@ -249,7 +249,7 @@ OBJECT poly
 name "contour"
 data 4
 Mesh
-texture "forceG.dds"
+texture "forceG.png"
 texrep 1 1
 crease 30.000000
 numvert 256

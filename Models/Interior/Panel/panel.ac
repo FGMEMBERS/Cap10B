@@ -51,7 +51,7 @@ OBJECT poly
 name "Cube_1"
 data 8
 Cube.001
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 8
@@ -93,7 +93,7 @@ OBJECT poly
 name "sono"
 data 10
 panel0.002
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 875
@@ -5983,7 +5983,7 @@ OBJECT poly
 name "pince_1"
 data 9
 pince.001
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 984
@@ -14384,7 +14384,7 @@ OBJECT poly
 name "vis_panel_1"
 data 10
 Circle.001
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 1378
@@ -24556,7 +24556,7 @@ OBJECT poly
 name "ai-switch-text"
 data 14
 ai-switch-text
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -24577,7 +24577,7 @@ OBJECT poly
 name "alarmedecrochage"
 data 16
 alarmedecrochage
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 129
@@ -25580,7 +25580,7 @@ OBJECT poly
 name "battery-switch-text"
 data 19
 battery-switch-text
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -25601,7 +25601,7 @@ OBJECT poly
 name "coulisse_frein"
 data 21
 supportmanettegaz.001
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 65
@@ -26108,7 +26108,7 @@ OBJECT poly
 name "coulisse_mixture"
 data 17
 supportmanettegaz
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 130
@@ -27112,7 +27112,7 @@ OBJECT poly
 name "details_panel"
 data 13
 details_panel
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 56
@@ -27504,7 +27504,7 @@ OBJECT poly
 name "front-tank-text"
 data 15
 front-tank-text
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -27525,7 +27525,7 @@ OBJECT poly
 name "fuel-pump-switch-text"
 data 21
 fuel-pump-switch-text
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -27546,7 +27546,7 @@ OBJECT poly
 name "fusibles"
 data 8
 fusibles
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 1040
@@ -37044,7 +37044,7 @@ OBJECT poly
 name "hi-switch-text"
 data 14
 hi-switch-text
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -37065,7 +37065,7 @@ OBJECT poly
 name "immat-text"
 data 10
 immat-text
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -37086,7 +37086,7 @@ OBJECT poly
 name "landing-lights-text"
 data 19
 landing-lights-text
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -37107,7 +37107,7 @@ OBJECT poly
 name "manette"
 data 7
 manette
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 168
@@ -38757,7 +38757,7 @@ OBJECT poly
 name "manettegaz"
 data 10
 manettegaz
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 122
@@ -39799,7 +39799,7 @@ OBJECT poly
 name "manettemixture"
 data 14
 manettemixture
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 129
@@ -40902,7 +40902,7 @@ OBJECT poly
 name "manettepark"
 data 11
 manettepark
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 251
@@ -42974,7 +42974,7 @@ OBJECT poly
 name "mixture-text"
 data 12
 mixture-text
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -42995,7 +42995,7 @@ OBJECT poly
 name "nav-lights-text"
 data 15
 nav-lights-text
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -43016,7 +43016,7 @@ OBJECT poly
 name "oil-press-text"
 data 14
 oil-press-text
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -43037,7 +43037,7 @@ OBJECT poly
 name "oil-temp-text"
 data 13
 oil-temp-text
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -43058,7 +43058,7 @@ OBJECT poly
 name "panel"
 data 5
 panel
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 1107
@@ -50983,7 +50983,7 @@ OBJECT poly
 name "pitot-heat-text"
 data 15
 pitot-heat-text
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -51004,7 +51004,7 @@ OBJECT poly
 name "rear-tank-text"
 data 14
 rear-tank-text
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -51025,7 +51025,7 @@ OBJECT poly
 name "selecteurcarburant"
 data 18
 selecteurcarburant
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 57
@@ -51470,7 +51470,7 @@ OBJECT poly
 name "smoke-switch-text"
 data 17
 smoke-switch-text
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -51491,7 +51491,7 @@ OBJECT poly
 name "starter"
 data 7
 starter
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 76
@@ -51891,7 +51891,7 @@ OBJECT poly
 name "strobe-lights-text"
 data 18
 strobe-lights-text
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -51912,7 +51912,7 @@ OBJECT poly
 name "support2"
 data 8
 support2
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 58
@@ -52372,7 +52372,7 @@ OBJECT poly
 name "support_radio"
 data 13
 support_radio
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 149
@@ -53456,7 +53456,7 @@ OBJECT poly
 name "supportalarme"
 data 13
 supportalarme
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 118
@@ -54386,7 +54386,7 @@ OBJECT poly
 name "temoin_temp"
 data 11
 temoin_temp
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 29
@@ -54607,7 +54607,7 @@ OBJECT poly
 name "va-text"
 data 7
 va-text
-texture "panel.dds"
+texture "panel.png"
 texrep 1 1
 crease 30.000000
 numvert 4

@@ -11,7 +11,7 @@ OBJECT poly
 name "CommKHz"
 data 8
 Mesh.027
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 24
@@ -189,7 +189,7 @@ OBJECT poly
 name "CommMHz"
 data 8
 Mesh.026
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 24
@@ -367,7 +367,7 @@ OBJECT poly
 name "CommToggle"
 data 8
 Mesh.025
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 8
@@ -420,7 +420,7 @@ OBJECT poly
 name "CommVolume"
 data 8
 Mesh.028
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 24
@@ -601,7 +601,7 @@ OBJECT poly
 name "CommStby100K"
 data 8
 Mesh.010
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -622,7 +622,7 @@ OBJECT poly
 name "CommStby100M"
 data 8
 Mesh.007
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -643,7 +643,7 @@ OBJECT poly
 name "CommStby10K"
 data 8
 Mesh.011
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -664,7 +664,7 @@ OBJECT poly
 name "CommStby10M"
 data 8
 Mesh.008
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -685,7 +685,7 @@ OBJECT poly
 name "CommStby1M"
 data 8
 Mesh.009
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -706,7 +706,7 @@ OBJECT poly
 name "CommStbyDot"
 data 8
 Mesh.012
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -730,7 +730,7 @@ OBJECT poly
 name "CommUse100K"
 data 8
 Mesh.004
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -751,7 +751,7 @@ OBJECT poly
 name "CommUse100M"
 data 8
 Mesh.001
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -772,7 +772,7 @@ OBJECT poly
 name "CommUse10K"
 data 8
 Mesh.005
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -793,7 +793,7 @@ OBJECT poly
 name "CommUse10M"
 data 8
 Mesh.002
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -814,7 +814,7 @@ OBJECT poly
 name "CommUse1M"
 data 8
 Mesh.003
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -835,7 +835,7 @@ OBJECT poly
 name "CommUseDot"
 data 8
 Mesh.006
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -859,7 +859,7 @@ OBJECT poly
 name "NavKHz"
 data 8
 Mesh.031
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 24
@@ -1037,7 +1037,7 @@ OBJECT poly
 name "NavMHz"
 data 8
 Mesh.030
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 24
@@ -1215,7 +1215,7 @@ OBJECT poly
 name "NavToggle"
 data 8
 Mesh.029
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 8
@@ -1268,7 +1268,7 @@ OBJECT poly
 name "NavVolume"
 data 8
 Mesh.032
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 24
@@ -1449,7 +1449,7 @@ OBJECT poly
 name "NavStby100K"
 data 8
 Mesh.022
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -1470,7 +1470,7 @@ OBJECT poly
 name "NavStby100M"
 data 8
 Mesh.019
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -1491,7 +1491,7 @@ OBJECT poly
 name "NavStby10K"
 data 8
 Mesh.023
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -1512,7 +1512,7 @@ OBJECT poly
 name "NavStby10M"
 data 8
 Mesh.020
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -1533,7 +1533,7 @@ OBJECT poly
 name "NavStby1M"
 data 8
 Mesh.021
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -1554,7 +1554,7 @@ OBJECT poly
 name "NavStbyDot"
 data 8
 Mesh.024
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -1578,7 +1578,7 @@ OBJECT poly
 name "NavUse100K"
 data 8
 Mesh.016
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -1599,7 +1599,7 @@ OBJECT poly
 name "NavUse100M"
 data 8
 Mesh.013
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -1620,7 +1620,7 @@ OBJECT poly
 name "NavUse10K"
 data 8
 Mesh.017
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -1641,7 +1641,7 @@ OBJECT poly
 name "NavUse10M"
 data 8
 Mesh.014
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -1662,7 +1662,7 @@ OBJECT poly
 name "NavUse1M"
 data 8
 Mesh.015
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -1683,7 +1683,7 @@ OBJECT poly
 name "NavUseDot"
 data 8
 Mesh.018
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 4
@@ -1704,7 +1704,7 @@ OBJECT poly
 name "Chassis"
 data 4
 Mesh
-texture "kx165.dds"
+texture "kx165.png"
 texrep 1 1
 crease 45.000000
 numvert 8
