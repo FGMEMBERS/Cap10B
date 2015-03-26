@@ -13,7 +13,7 @@ OBJECT poly
 name "casque"
 data 6
 casque
-texture "pilot.png"
+texture "pilot.dds"
 texrep 1 1
 crease 30.000000
 numvert 872
@@ -7007,7 +7007,7 @@ OBJECT poly
 name "avbrasD"
 data 7
 avbrasD
-texture "pilot.png"
+texture "pilot.dds"
 texrep 1 1
 crease 30.000000
 numvert 327
@@ -9599,7 +9599,7 @@ OBJECT poly
 name "avbrasG"
 data 11
 avbrasG.001
-texture "pilot.png"
+texture "pilot.dds"
 texrep 1 1
 crease 30.000000
 numvert 327
@@ -12191,7 +12191,7 @@ OBJECT poly
 name "brasD"
 data 5
 brasD
-texture "pilot.png"
+texture "pilot.dds"
 texrep 1 1
 crease 30.000000
 numvert 276
@@ -14544,7 +14544,7 @@ OBJECT poly
 name "brasG"
 data 9
 brasG.001
-texture "pilot.png"
+texture "pilot.dds"
 texrep 1 1
 crease 30.000000
 numvert 276
@@ -16897,7 +16897,7 @@ OBJECT poly
 name "corps"
 data 5
 corps
-texture "pilot.png"
+texture "pilot.dds"
 texrep 1 1
 crease 30.000000
 numvert 189
@@ -18118,7 +18118,7 @@ OBJECT poly
 name "cuisseD"
 data 7
 cuisseD
-texture "pilot.png"
+texture "pilot.dds"
 texrep 1 1
 crease 30.000000
 numvert 49
@@ -18485,7 +18485,7 @@ OBJECT poly
 name "cuisseG"
 data 7
 cuisseG
-texture "pilot.png"
+texture "pilot.dds"
 texrep 1 1
 crease 30.000000
 numvert 49
@@ -18852,7 +18852,7 @@ OBJECT poly
 name "jacks"
 data 8
 Tube.001
-texture "pilot.png"
+texture "pilot.dds"
 texrep 1 1
 crease 30.000000
 numvert 126
@@ -19810,7 +19810,7 @@ OBJECT poly
 name "jambeD"
 data 6
 jambeD
-texture "pilot.png"
+texture "pilot.dds"
 texrep 1 1
 crease 30.000000
 numvert 40
@@ -20084,7 +20084,7 @@ OBJECT poly
 name "jambeG"
 data 6
 jambeG
-texture "pilot.png"
+texture "pilot.dds"
 texrep 1 1
 crease 30.000000
 numvert 40
@@ -20358,7 +20358,7 @@ OBJECT poly
 name "mainD"
 data 5
 mainD
-texture "pilot.png"
+texture "pilot.dds"
 texrep 1 1
 crease 30.000000
 numvert 233
@@ -23277,7 +23277,7 @@ OBJECT poly
 name "mainG"
 data 9
 mainG.001
-texture "pilot.png"
+texture "pilot.dds"
 texrep 1 1
 crease 30.000000
 numvert 233
@@ -26196,7 +26196,7 @@ OBJECT poly
 name "piedD"
 data 5
 piedD
-texture "pilot.png"
+texture "pilot.dds"
 texrep 1 1
 crease 30.000000
 numvert 65
@@ -26691,7 +26691,7 @@ OBJECT poly
 name "piedG"
 data 5
 piedG
-texture "pilot.png"
+texture "pilot.dds"
 texrep 1 1
 crease 30.000000
 numvert 65
@@ -27186,7 +27186,7 @@ OBJECT poly
 name "tete"
 data 4
 tete
-texture "pilot.png"
+texture "pilot.dds"
 texrep 1 1
 crease 30.000000
 numvert 383

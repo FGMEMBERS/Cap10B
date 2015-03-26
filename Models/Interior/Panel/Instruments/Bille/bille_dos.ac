@@ -10,7 +10,7 @@ name "bille"
 loc 0 0 -0
 data 5
 bille
-texture "bille.png"
+texture "bille.dds"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 184
@@ -1553,7 +1553,7 @@ name "sup_bille_dos_1"
 loc 0 0 -0
 data 15
 sup_bille_dos_1
-texture "bille.png"
+texture "bille.dds"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 24

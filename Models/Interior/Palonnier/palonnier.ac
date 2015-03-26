@@ -10,7 +10,7 @@ name "boitier"
 loc -0.039957 0.012659 -0
 data 7
 boitier
-texture "palonnier.png"
+texture "palonnier.dds"
 texrep 1.000000 1.000000
 crease 179.000000
 numvert 1496
@@ -11560,7 +11560,7 @@ name "brakeL"
 loc 0 0 -0
 data 6
 brakeL
-texture "palonnier.png"
+texture "palonnier.dds"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 86
@@ -12129,7 +12129,7 @@ name "brakeR"
 loc 0 0 -0
 data 6
 brakeR
-texture "palonnier.png"
+texture "palonnier.dds"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 87
@@ -12699,7 +12699,7 @@ name "palonnierL"
 loc 0 0 -0
 data 10
 palonnierL
-texture "palonnier.png"
+texture "palonnier.dds"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 1654
@@ -22469,7 +22469,7 @@ name "palonnierR"
 loc 0 0 -0
 data 10
 palonnierR
-texture "palonnier.png"
+texture "palonnier.dds"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 1652

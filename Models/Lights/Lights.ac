@@ -8,7 +8,7 @@ name "blue-light-plate"
 loc 0 0 -0
 data 16
 blue-light-plate
-texture "lights.png"
+texture "lights.dds"
 texrep 1.000000 1.000000
 crease 45.000001
 numvert 12
@@ -52,7 +52,7 @@ name "green-light-plate"
 loc 0 0 -0
 data 17
 green-light-plate
-texture "lights.png"
+texture "lights.dds"
 texrep 1.000000 1.000000
 crease 45.000001
 numvert 12
@@ -627,7 +627,7 @@ name "lnd-light-plate"
 loc 0 0 -0
 data 15
 lnd-light-plate
-texture "lights.png"
+texture "lights.dds"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 4
@@ -649,7 +649,7 @@ name "red-light-plate"
 loc 0 0 -0
 data 15
 red-light-plate
-texture "lights.png"
+texture "lights.dds"
 texrep 1.000000 1.000000
 crease 45.000001
 numvert 12
@@ -693,7 +693,7 @@ name "white-light-plate"
 loc 0 0 -0
 data 17
 white-light-plate
-texture "lights.png"
+texture "lights.dds"
 texrep 1.000000 1.000000
 crease 45.000001
 numvert 12

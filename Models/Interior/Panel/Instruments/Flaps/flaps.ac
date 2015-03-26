@@ -7,7 +7,7 @@ name "Flaps"
 loc 0 0 -0
 data 5
 Flaps
-texture "flaps.png"
+texture "flaps.dds"
 texrep 1.000000 1.000000
 crease 179.000000
 numvert 1218

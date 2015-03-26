@@ -49,7 +49,7 @@
       </and>
     </condition>
 
-    <texture>spark.png</texture>
+    <texture>spark.dds</texture>
     <emissive>true</emissive>
     <lighting>true</lighting>
     <align>billboard</align>

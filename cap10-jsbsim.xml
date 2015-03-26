@@ -433,7 +433,7 @@
 
  <propulsion>
 
-  <engine file="eng_LycomingIO360B2F">
+  <engine file="LycomingIO360B2F">
     <location unit="M">
       <x> -1.2 </x>
       <y>  0.00 </y>
@@ -446,7 +446,7 @@
     </orient>
     <feed>0</feed>
     <feed>1</feed>
-    <thruster file="prop_HOFFMANN">
+    <thruster file="HOFFMANN">
     <location unit="M">
       <x> -2.0 </x>
       <y>  0.00 </y>

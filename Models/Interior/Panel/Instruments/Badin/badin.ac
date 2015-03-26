@@ -9,7 +9,7 @@ OBJECT poly
 name "aiguille"
 data 8
 aiguille
-texture "badin.png"
+texture "badin.dds"
 texrep 1 1
 crease 30.000000
 numvert 183
@@ -794,7 +794,7 @@ OBJECT poly
 name "badin"
 data 5
 badin
-texture "badin.png"
+texture "badin.dds"
 texrep 1 1
 crease 30.000000
 numvert 225
@@ -1893,7 +1893,7 @@ OBJECT poly
 name "vis1"
 data 4
 vis1
-texture "badin.png"
+texture "badin.dds"
 texrep 1 1
 crease 30.000000
 numvert 68

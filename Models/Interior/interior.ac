@@ -10,7 +10,7 @@ name "FuselageInt"
 loc 0 0 -0
 data 11
 FuselageInt
-texture "interior.png"
+texture "interior.dds"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 507
@@ -5284,7 +5284,7 @@ name "bielle_throttle"
 loc 0 0 -0
 data 15
 bielle_throttle
-texture "interior.png"
+texture "interior.dds"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 76
@@ -6115,7 +6115,7 @@ name "joint_verriere"
 loc 0 0 -0
 data 14
 joint_verriere
-texture "interior.png"
+texture "interior.dds"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 15
@@ -6197,7 +6197,7 @@ name "partie_centrale"
 loc 0 0 -0
 data 15
 partie_centrale
-texture "interior.png"
+texture "interior.dds"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 126
@@ -7055,7 +7055,7 @@ name "structure"
 loc 0 0 -0
 data 9
 structure
-texture "interior.png"
+texture "interior.dds"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 16
@@ -7138,7 +7138,7 @@ name "support_throttle"
 loc 0 0 -0
 data 16
 support_throttle
-texture "interior.png"
+texture "interior.dds"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 80
@@ -7866,7 +7866,7 @@ name "tapis"
 loc 0 0 -0
 data 5
 tapis
-texture "interior.png"
+texture "interior.dds"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 80
@@ -8377,7 +8377,7 @@ name "throttle"
 loc 0 0 -0
 data 8
 throttle
-texture "interior.png"
+texture "interior.dds"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 211
@@ -9954,7 +9954,7 @@ name "trim-wheel"
 loc -0.043073 -0.182031 -0
 data 10
 trim-wheel
-texture "interior.png"
+texture "interior.dds"
 texrep 1.000000 1.000000
 crease 179.000000
 numvert 368

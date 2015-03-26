@@ -7,7 +7,7 @@ name "led"
 loc 0 0 -0
 data 3
 led
-texture "red-led.png"
+texture "red-led.dds"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 33
@@ -243,7 +243,7 @@ name "supportLed"
 loc 0 0 -0
 data 10
 supportLed
-texture "red-led.png"
+texture "red-led.dds"
 texrep 1.000000 1.000000
 crease 30.000001
 numvert 128

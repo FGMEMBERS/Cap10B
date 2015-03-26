@@ -9,7 +9,7 @@ OBJECT poly
 name "sieges"
 data 6
 sieges
-texture "cuir.png"
+texture "cuir.dds"
 texrep 1 1
 crease 30.000000
 numvert 828
@@ -6615,7 +6615,7 @@ OBJECT poly
 name "sousSieges"
 data 10
 sousSieges
-texture "cuir.png"
+texture "cuir.dds"
 texrep 1 1
 crease 80.000000
 numvert 4
@@ -6636,7 +6636,7 @@ OBJECT poly
 name "supportsiege"
 data 12
 supportsiege
-texture "cuir.png"
+texture "cuir.dds"
 texrep 1 1
 crease 30.000000
 numvert 424

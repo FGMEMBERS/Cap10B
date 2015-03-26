@@ -32,7 +32,7 @@
   <particlesystem>
     <name>smoke</name>
 
-    <texture>smoke.png</texture>
+    <texture>smoke.dds</texture>
 
     <condition>
       <property>sim/multiplay/generic/int[6]</property>
